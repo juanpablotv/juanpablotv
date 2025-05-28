@@ -8,7 +8,7 @@ Aquí encontrarás proyectos de practica, experimentos y recursos sobre desarrol
 - 💻 Desarrollador apasionado por el aprendizaje continuo.
 - 🌱 Actualmente aprendiendo nuevas tecnologías y frameworks.
 - 🛠️ Me gusta trabajar con JavaScript, TypeScript, Python y más.
-- 📫 Puedes contactarme en: [tu-email@ejemplo.com](torresvaldesjuanpablo@gmail.com)
+- 📫 Puedes contactarme en: [torresvaldesjuanpablo@gmail.com](torresvaldesjuanpablo@gmail.com)
 
 
 ## 🛠️ Herramientas que uso
